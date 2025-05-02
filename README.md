@@ -1,3 +1,3 @@
 # CMS.DEMO
-This is my first git hub code.
+This is my first git Respository.
 Author = "MUNSIF ALI".
